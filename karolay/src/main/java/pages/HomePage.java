@@ -27,3 +27,6 @@ public class HomePage extends BasePage {
 	private WebElement btnLogin;
 
 }
+/* COMENTARIOS
+1. Como sugerencia, los @FindBy podrían ir arriba del constructor.
+*/
