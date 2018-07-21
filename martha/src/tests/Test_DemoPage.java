@@ -31,3 +31,7 @@ public class Test_DemoPage extends BaseTest {
 		}
 
 }//FIN
+/* COMENTARIOS
+1. Hay varios espacios. Se pudo formatear mejor.
+2. No hay assert, por ende, no es un Test válido.
+*/
