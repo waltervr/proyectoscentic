@@ -41,3 +41,8 @@ public class LoginPage extends BasePage {
 		return new DashboardPage(driver);
 	}
 }//FIN CLASS
+/* COMENTARIOS
+1. No deben haber comentarios en las clases.
+2. Hay varios espacios. Se pudo formatear mejor.
+3. Me queda la duda de para qué darle click a los elementos de texto?
+*/
