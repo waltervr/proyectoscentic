@@ -24,3 +24,6 @@
 		<appender-ref ref="fileAppender" />
 	</root>
 </log4j:configuration>
+<!-- COMENTARIOS
+1. Hay varios espacios vacíos que no deberían estar. Se debió formatear correctamente.
+-->
