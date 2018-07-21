@@ -59,3 +59,7 @@ public class BaseTest { // ES EL PAPA DE TODO
 	}// fin_metodo
 
 }// FIN_CLASS
+/* COMENTARIOS
+1. No deben haber comentarios en las clases.
+2. Hay muchos espacios. Se debió formatear correctamente.
+*/
