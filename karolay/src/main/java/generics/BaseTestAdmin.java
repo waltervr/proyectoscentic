@@ -13,7 +13,7 @@ public class BaseTestAdmin {
 	@BeforeMethod
 	public void setup() {
 		System.setProperty("webdriver.chrome.driver",
-				"D:\\Programas\\Curso de automatizaci�n\\Chromedriver\\chromedriver.exe");
+				"D:\\Programas\\Curso de automatización\\Chromedriver\\chromedriver.exe");
 		driver = new ChromeDriver();
 		driver.get(url);
 	}
@@ -23,3 +23,6 @@ public class BaseTestAdmin {
 		driver.quit();
 	}
 }
+/* COMENTARIOS
+1. Este archivo no es necesario, cuando se requiere usar más de una URL se puede hacer un override del setup en la clase de test que lo necesita la URL diferente.
+*/
