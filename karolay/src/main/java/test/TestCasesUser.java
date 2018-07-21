@@ -61,3 +61,6 @@ public class TestCasesUser extends BaseTest {
 	}
 
 }
+/* COMENTARIOS
+1. No deberían haber comentarios en la clase, si no lo necesitas se puede borrar.
+*/
