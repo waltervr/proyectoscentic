@@ -59,3 +59,6 @@ public class LoginPage extends BasePage {
 	}
 
 }
+/* COMENTARIOS
+1. Parece que el método goToStartPage no lo estás necesitando, lo podrías borrar.
+*/
